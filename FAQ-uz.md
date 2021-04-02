@@ -1,5 +1,5 @@
 <div>
-    <h1><a href="https://t.me/FullStack_OMUC">@FullStack_OMUC</a> FAQ (KO'P SO'RALADIGAN SAVOLLAR) </h1>
+    <h1>MATE Programming</h1>
 <hr>
     <h4>Bu repositoriyda qiziqarli va kerakli bo'lgan ma'lumotlar to'plangan.</h4>
 </div>
@@ -174,6 +174,4 @@
         <li><a href = "https://paste.centos.org/">Fedora Pastebin</a></li>
         <li><a href = "https://t.me/SimplePasteBot">Hastebin Telegram Bot</a></li>
     </ul>
-    <h2>Takliflar</h2>
-    <p>Boshqa resurs yoki takliflar bo'lsa, <a href="https://t.me/illus11on">guruh moderatori</a> bilan aloqaga chiqing.</p>
 </div>
