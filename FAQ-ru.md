@@ -173,6 +173,5 @@
         <li><a href = "https://paste.centos.org/">Fedora Pastebin</a></li>
         <li><a href = "https://t.me/SimplePasteBot">Hastebin Telegram Bot</a></li>
     </ul>
-    <h2>Предложения</h2>
-    <p>Если у вас есть предложения и вопросы, обратитесь к <a href="https://t.me/illus11on">модератору</a>.</p>
+   
 </div>
